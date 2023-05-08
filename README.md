@@ -7,7 +7,7 @@ We provide the download link as follows: [Download Link - LFETT2021](https://dri
 Due to the storage restriction of Google Drive, we ONLY provide part of LFETT2021, including PCAP files of two tunnels(ssr and vmess). If there exists any requirement for the full dataset, please contact us at guzheyuan@iie.ac.cn.
 
 ## Cite
-We hope that our work is helpful for tunnel traffic identification and analysis and calls for effective countermeasures in tunnel communication privacy. If the code is helpful in your work, please cite our paper:
+We hope that our work is helpful for tunnel traffic identification and analysis and calls for effective countermeasures in tunnel communication privacy. If the dataset is helpful in your work, please cite our paper:
 ```
 @INPROCEEDINGS{LFETT2021,
   author={Gu, Zheyuan and Gou, Gaopeng and Hou, Chengshang and Xiong, Gang and Li, Zhen},
